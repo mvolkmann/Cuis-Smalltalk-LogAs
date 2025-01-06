@@ -11,3 +11,5 @@ will print something like the following to the Transcript:
 ```text
 In SomeClass>>someMethod, someVariable is a SomeType = someValue
 ```
+
+To install this, evaluate `Feature require: `LogAs'` in a Workspace.
